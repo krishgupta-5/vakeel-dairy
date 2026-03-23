@@ -8,7 +8,7 @@
 
 [![Download App](https://img.shields.io/badge/Download-Android-green?style=for-the-badge&logo=android)](https://drive.usercontent.google.com/download?id=1-79i6VvJsh_GzYD7O4ipPLRWqF0p1zgJ&export=download&authuser=0)
 [![Website](https://img.shields.io/badge/Website-Vercel-black?style=for-the-badge&logo=vercel)](https://vakeel-dairy.vercel.app/)
-[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](https://github.com/sahilmishra03/vakeel-dairy)
+[![Version](https://img.shields.io/badge/Version-1.0.0-blue?style=for-the-badge)](https://github.com/krishgupta-5/vakeel-dairy)
 [![Flutter](https://img.shields.io/badge/Flutter-3.19+-blue?style=for-the-badge&logo=flutter)](https://flutter.dev)
 
 </div>
@@ -103,7 +103,7 @@ Trusted by 100+ advocates across India, Vakeel Diary simplifies your legal pract
 ### Clone and Run
 ```bash
 # Clone the repository
-git clone https://github.com/sahilmishra03/vakeel-dairy.git
+git clone https://github.com/krishgupta-5/vakeel-dairy
 cd vakeel-dairy
 
 # Install dependencies
